@@ -34,8 +34,8 @@ This will start the FastAPI application in a Docker container, and it will be ac
 
 ## API Documentation
 Once the app is running, you can access the interactive API documentation at: <br>
-Swagger UI: http://localhost/8000/docs <br>
-ReDoc: http://localhost/8000/redoc
+Swagger UI: http://localhost:8000/docs <br>
+ReDoc: http://localhost:8000/redoc
 
 
 
