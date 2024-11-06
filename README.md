@@ -1,6 +1,6 @@
 # FastAPI Application
 
-This is a FastAPI application that provides a REST API for handling receipts and items. The app is Dockerized and can be easily run using Docker.
+This is a FastAPI application that provides a REST API for handling receipts and items. The app is Containerized and can be easily run using Docker.
 
 ## Prerequisites
 
